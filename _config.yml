@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: This is the personal homepage of Melchior Jordan Kuo
+description: You will find info here
+plugins: 
+  - jemoji
